@@ -3,7 +3,8 @@
 ### Paso 1: 
 Primero vamos a descargar los archivos de este repositorio,
 despues vamos a descomprimir el archivo CapaPresentacion.zip, una vez descomprimido a carpeta = "CapaPresentacion", 
-vamos a llevar esa carpeta junto al archivo Catalogo.sln a la siguiente ruta: C:\Users\"(Aqui va tu usuario)"\source\repos\CapaPresentacion
+vamos a llevar esa carpeta junto al archivo Catalogo.sln a la siguiente ruta: 
+C:\Users\"(Aqui va tu usuario)"\source\repos\CapaPresentacion
 
 ### Paso 2: 
 #### Abrimos el SQL Server Management Studio, creamos un server name=JARED
