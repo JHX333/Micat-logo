@@ -11,10 +11,10 @@ C:\Users\"(Aqui va tu usuario)"\source\repos\CapaPresentacion
 #### Abrimos el SQL Server Management Studio, creamos un server name=JARED
 
 ### Paso 3: 
-#### los dos arcivos sql de este repositorio los ejecutamos dentro del servername=JARED de SQL Server Management Studio, Esto para que se cren las bases de datos de productos y usuarios
+#### los dos archivos sql de este repositorio(ProductosDB, Usuarios) los ejecutamos dentro del servername=JARED de SQL Server Management Studio, Esto para que se cren las bases de datos de productos y usuarios
 
 ### Paso 4: 
 #### Abrimos el archivo Catalago.sln con visual studio 2022
 
 ### Paso 5: 
-#### Lo ejecutamos IIS Express.
+#### Lo ejecutamos IIS Express con el navegador de nuestra preferencia.
